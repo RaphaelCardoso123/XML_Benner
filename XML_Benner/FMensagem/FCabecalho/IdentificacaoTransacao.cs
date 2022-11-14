@@ -1,7 +1,7 @@
 ﻿
 namespace XML_Benner.FMensagem.FCabecalho
 {
-    public class IdentificacaoPadrao
+    public class IdentificacaoTransacao
     {
 
         public string TipoTransacao { get; set; }
