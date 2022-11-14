@@ -1,5 +1,4 @@
-﻿
-namespace XML_Benner.FMensagem.FCorpo.ABI.Prestadores
+﻿namespace XML_Benner.FMensagem.FCorpo.ABI.Prestadores.Prestador
 {
     public class EnderecoUPS
     {
